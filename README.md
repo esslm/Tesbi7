@@ -112,8 +112,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🌠 Contact
 `Discord :` @61z.
+<br>
 `Instagram :` @ia1q_
+<br>
 `X :` @ia1q_
 
----
 *May Allah accept our deeds and make this tool beneficial.*
