@@ -110,5 +110,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to Allah for the guidance
 - Discord.js community for the excellent documentation
 
+## 🌠 Contact
+`Discord :` @61z.
+`Instagram :` @ia1q_
+`X :` @ia1q_
+
 ---
-*May Allah accept our deeds and make this tool beneficial for the Ummah.*
+*May Allah accept our deeds and make this tool beneficial.*
